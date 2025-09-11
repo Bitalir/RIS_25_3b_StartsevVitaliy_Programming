@@ -1,5 +1,5 @@
 # RIS_25_3b_StartsevVitaliy_Programming
-> Don't trust anyone
+> ...Don't trust anyone...
 ## Я Старцев Виталий, студент первого курса ПИНПУ ##
 
 ### Сегодня среда, девтяое сентбря, я устанавливаю Git ###
