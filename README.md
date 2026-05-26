@@ -1,12 +1,12 @@
 >Старцев Виталий, РИС-25-3б
 >Все лабы 14 вариант
-#№ Лабораторные работы по Информатике, Основам Алгоритмизации и Программированию и Теории Алгоритмво и Структуры Данных
+# Лабораторные работы по Информатике, Основам Алгоритмизации и Программированию и Теории Алгоритмво и Структуры Данных
 
 ## Классы
 
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на Отчёт |
 | :---: | :---: | :---: | :---: | :---: |
-| 1 | class_1 | 🟢 | [Код](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/class/class1/class1.cpp) | [Отчёт]([https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/class/class1/laba1.docx) |
+| 1 | class_1 | 🟢 | [Код](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/class/class1/class1.cpp) | [Отчёт]([https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/class/class1/laba1.docx) | 
 | 2 | class_2 | 🟢 | [Код](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/class/class2/class2.cpp) | [Отчёт]([https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/class/class2/laba2.docx) |
 | 3 | class_3 | 🟢 | [Код](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/class/class3/class3.cpp) | [Отчёт]([https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/class/class3/laba3.docx) |
 | 4 | class_4 | 🟢 | [Код](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/class/class4/class4.cpp) | [Отчёт]([https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/class/class4/laba4.docx) |
