@@ -13,7 +13,7 @@
 | 5 | laba_8 | 🟢 | [Код](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/labs%20(4-11.1)/lab8/laba8.cpp) | [Отчёт](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/labs%20(4-11.1)/lab8/Лабораторная%20работа%20№8.docx) |
 | 6 | laba_9 | 🟢 | [Код](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/labs%20(4-11.1)/lab9/laba9.cpp) | [Отчёт](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/labs%20(4-11.1)/lab9/Лабораторная%20работа%20№9.docx) |
 | 7 | laba_10 | 🟢 | [Код](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/labs%20(4-11.1)/lab10/lab10.cpp) | [Отчёт](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/labs%20(4-11.1)/lab10/Лабораторная%20работа%20№10.docx) |
-| 8 | laba_11 | 🟢 | [Код](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/labs%20(4-11.1)/lab11) | [Отчёт](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/labs%20(4-11.1)/lab11/Лабораторная%20работа%20№11.docx) |
+| 8 | laba_11 | 🟢 | [Код](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/labs%20(4-11.1)/lab11) | [Отчёт](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/labs%20(4-11.1)/lab11/Лабораторная%20работа%20№11.1.docx) |
 
 ## Классы
 
