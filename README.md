@@ -14,6 +14,10 @@
 | 6 | laba_9 | 🟢 | [Код](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/labs%20(4-11.1)/lab9/laba9.cpp) | [Отчёт](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/labs%20(4-11.1)/lab9/Лабораторная%20работа%20№9.docx) |
 | 7 | laba_10 | 🟢 | [Код](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/labs%20(4-11.1)/lab10/lab10.cpp) | [Отчёт](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/labs%20(4-11.1)/lab10/Лабораторная%20работа%20№10.docx) |
 | 8 | laba_11 | 🟢 | [Код](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/labs%20(4-11.1)/lab11) | [Отчёт](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/labs%20(4-11.1)/lab11/Лабораторная%20работа%20№11.1.docx) |
+| 9 | simple_search | 🟢 | [Код](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/searches%20and%20sorting/simple_search/laba_simple_search.cpp) | [Отчёт](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/searches%20and%20sorting/simple_search/Лаба_простые_методы_поиска.docx) |
+| 10 | simple_sort | 🟢 | [Код](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/tree/main/labs/searches%20and%20sorting/simple_sort) | [Отчёт](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/searches%20and%20sorting/simple_sort/Лаба_простые_сортировки.docx) |
+| 11 | complex_search | 🟢 | [Код](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/tree/main/labs/searches%20and%20sorting/complex_searching) | [Отчёт](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/tree/main/labs/searches%20and%20sorting/complex_searching) |
+| 11 | complex_sort | 🟢 | [Код](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/tree/main/labs/searches%20and%20sorting/comlpex_sorting) | [Отчёт](https://github.com/Bitalir/RIS_25_3b_StartsevVitaliy_Programming/blob/main/labs/searches%20and%20sorting/comlpex_sorting/Лаба_сложные_сортировки.docx) |
 
 ## Классы
 
